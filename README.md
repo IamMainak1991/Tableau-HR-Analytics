@@ -10,3 +10,4 @@ We hope that this project will help you gain insights into HR analytics and unde
 
 Data: https://github.com/pik1989/JobsHK
 Steps: Dump the file into your MySQL Database, and then kick start this project :)
+image
